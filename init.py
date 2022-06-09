@@ -7,4 +7,5 @@ class Employee:
 
 employee = Employee()
 employee.displayEmployeeDetails()
-
+employeeTwo = Employee()
+employeeTwo.displayEmployeeDetails()
